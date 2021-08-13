@@ -1,13 +1,14 @@
 # Project information
 site_name: Test ghpages
-site_author: 'Gan'
+site_author: 'Gab'
 site_url:
 remote_branch: gh-pages
+edit_uri: 'tree/main/docs/'
 
 # Repository
 repo_name: 'Test GHPAGES'
 repo_url: https://github.com/gabrielemariotti/test_ghpages
-edit_uri: '#root/path/docs/'
+
 
 theme:
   name: 'material'
