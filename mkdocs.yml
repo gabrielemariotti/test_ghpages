@@ -1,0 +1,20 @@
+# Project information
+site_name: Test ghpages
+site_author: 'Gan'
+site_url:
+remote_branch: gh-pages
+
+# Repository
+repo_name: 'Test GHPAGES'
+repo_url: https://github.com/gabrielemariotti/test_ghpages
+
+theme:
+  name: 'material'
+
+markdown_extensions:
+  - codehilite:
+  - pymdownx.superfences
+  - admonition
+
+nav:
+    - Getting started: index.md
